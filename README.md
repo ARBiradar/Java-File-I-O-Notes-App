@@ -1,7 +1,5 @@
 # Java-File-I-O-Notes-App
 
-# Java Notes Taking Application
-
 ## Overview
 
 The **Java Notes Taking Application** is a lightweight and efficient tool designed to help users create, manage, and organize their notes effortlessly. Built with Java and Java Swing, this application offers essential functionalities such as saving, deleting, opening, and viewing notes, all stored securely on the user's local device.
